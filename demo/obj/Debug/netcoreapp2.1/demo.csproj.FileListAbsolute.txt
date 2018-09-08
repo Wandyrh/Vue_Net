@@ -1,0 +1,14 @@
+C:\Vue\Vue_Net\demo\bin\Debug\netcoreapp2.1\demo.deps.json
+C:\Vue\Vue_Net\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.json
+C:\Vue\Vue_Net\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.dev.json
+C:\Vue\Vue_Net\demo\bin\Debug\netcoreapp2.1\demo.dll
+C:\Vue\Vue_Net\demo\bin\Debug\netcoreapp2.1\demo.pdb
+C:\Vue\Vue_Net\demo\obj\Debug\netcoreapp2.1\demo.csprojAssemblyReference.cache
+C:\Vue\Vue_Net\demo\obj\Debug\netcoreapp2.1\demo.csproj.CoreCompileInputs.cache
+C:\Vue\Vue_Net\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cache
+C:\Vue\Vue_Net\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cs
+C:\Vue\Vue_Net\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfoInputs.cache
+C:\Vue\Vue_Net\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfo.cs
+C:\Vue\Vue_Net\demo\obj\Debug\netcoreapp2.1\demo.RazorTargetAssemblyInfo.cache
+C:\Vue\Vue_Net\demo\obj\Debug\netcoreapp2.1\demo.dll
+C:\Vue\Vue_Net\demo\obj\Debug\netcoreapp2.1\demo.pdb
