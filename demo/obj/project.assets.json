@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wandy.rodriguez\\Desktop\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Vue\\VueNet\\Vue_Net\\demo\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\wandy.rodriguez\\Desktop\\Test\\Test.csproj",
+      "projectPath": "C:\\Vue\\VueNet\\Vue_Net\\demo\\Test.csproj",
       "packagesPath": "C:\\Users\\wandy.rodriguez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wandy.rodriguez\\Desktop\\Test\\obj\\",
+      "outputPath": "C:\\Vue\\VueNet\\Vue_Net\\demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
