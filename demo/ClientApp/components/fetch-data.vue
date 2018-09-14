@@ -6,7 +6,7 @@
 
         <p v-if="!forecasts"><em>Loading...</em></p>
 
-        <table class="table" v-if="forecasts">
+        <table class="table isBordered isStriped isNarrowed isHoverable " v-if="forecasts">
             <thead>
                 <tr>
                     <th>Date</th>

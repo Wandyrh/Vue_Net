@@ -1,10 +1,13 @@
 <template>
-    <div id="app" class="container-fluid">
-        <div class="row">
-            <div class="col-sm-3">
+
+    <div id="app" class="container">
+    <link rel="stylesheet" href="//cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css">
+
+        <div class="panel ">
+            <div >
                 <nav-menu params="route: route"></nav-menu>
             </div>
-            <div class="col-sm-9">
+            <div >
                 <router-view></router-view>
             </div>
         </div>
@@ -34,4 +37,7 @@ export default {
 </script>
 
 <style>
+.black{
+    background: black;
+}
 </style>

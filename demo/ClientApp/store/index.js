@@ -1,5 +1,9 @@
 ﻿import Vue from 'vue'
 import Vuex from 'vuex'
+import Buefy from 'buefy'
+
+
+
 
 Vue.use(Vuex)
 
